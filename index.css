@@ -1,0 +1,11 @@
+.Imagen {
+    width: 250px;
+    height: 250px;
+}
+.Title {
+    background-color: white;
+    text-align: center;
+    padding: auto;
+    margin: auto;
+    width: 200px;
+}
